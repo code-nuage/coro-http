@@ -9,6 +9,7 @@ description = {
    license = "MIT"
 }
 dependencies = {
+   "lua >= 5.1",
    "coro-net >= 3.2-1",
    "http-codec >= 3.0-8"
 }
